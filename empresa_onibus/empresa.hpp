@@ -1,7 +1,7 @@
 #ifndef EMPRESA_H
 #define EMPRESA_H
 #include<string>
-#include "Onibus.hpp"
+#include "onibus.hpp"
 
 struct empresa
 {

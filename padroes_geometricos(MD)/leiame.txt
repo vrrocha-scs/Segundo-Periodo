@@ -1,0 +1,9 @@
+REQUISITOS DE HARDWARE
+
+Processador	13th Gen Intel(R) Core(TM) i5-13420H   2.10 GHz
+RAM instalada	8,00 GB (utilizável: 7,71 GB)
+Tipo de sistema	Sistema operacional de 64 bits, processador baseado em x64
+
+Compilador C:
+testado com WSL
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04) 13.3.0
